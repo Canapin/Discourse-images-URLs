@@ -1,0 +1,12 @@
+.img-urls {
+  table {
+    width: 100%;
+    table-layout: fixed;
+    td {
+      width: 50%;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+  }
+}
